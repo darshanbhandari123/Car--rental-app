@@ -15,11 +15,17 @@ The customer can make a suggestion but cannot see the status of his made suggest
 
 A new customer will get a notification after signinh up.
 
+The rental charge will be calculated with the 'no. of hours' specified during reserve/checkout no matter when the car is returned.
+
+The car details can be viewed by clicking on the 'license no.'
+
 Cars
-A car can be added by admin/superadmin. A car can have status as available/booked/checked out states. Once the car is reserved, it will be  be visible to customers to checkout. 
+A car can be added by admin/superadmin. A car can have status as available/booked/checked out states.
 
 Admins
 Admins can view all customers and cars. They can also add a car, edit a reservation for the customer and also book a car for a particular customer. Admins can add other admins.
+
+To edit, delete a customer or other admins click on 'View/modify User' and then on the 'email id' of the User.
 
 Superadmins
 Superadmins can add admins and superadmins. They perform everything that an admin can perform.
