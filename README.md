@@ -35,7 +35,4 @@ A new customer will get a notification email after signing up.
 
 If a user doesn’t return a car on the date promised when it was checked out, the system will sent a notification email.
 
-Do provide correct email id for this feature to work.
-
-Suggestion:
-The cutsomer can suggest to include some cars by providing manufacturer and model information.
+Do provide correct email id for these features to work.
