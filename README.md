@@ -36,3 +36,22 @@ A new customer will get a notification email after signing up.
 If a user doesn’t return a car on the date promised when it was checked out, the system will sent a notification email.
 
 Do provide correct email id for these features to work.
+
+
+Heruko link : https://evening-citadel-75427.herokuapp.com/
+
+Admin - 
+
+Username : admin@cra.com
+Password : admin
+
+Super admin - 
+
+Username : superadmin@cra.com
+Password : superadmin
+
+Customer can be created using signup feature
+
+
+
+
